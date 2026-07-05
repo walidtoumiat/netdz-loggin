@@ -92,3 +92,17 @@ p{
     position: relative;
     top: 30px;
 }
+
+footer{
+    position: relative;
+    top: 150px;
+}
+
+.link{
+    display: flex;
+    gap: 100px;
+}
+
+footer a{
+    color: inherit;
+}
